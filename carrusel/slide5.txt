@@ -1,0 +1,6 @@
+SLIDE 5 - ROL CONCRETO DE LA IA
+TAREA: Traducir el fallo técnico a instrucciones paso a paso
+INFORMACIÓN: Tipo de fallo + componente afectado
+RESULTADO: Explicación causal + acción concreta
+REVISIÓN: Docente (validado por reglas, no adivinado)
+VALOR: Convierte conocimiento técnico en enseñable

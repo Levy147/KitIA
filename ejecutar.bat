@@ -1,0 +1,1 @@
+@echo off\r\ncd /d %~dp0\r\ncall .venv\\Scripts\\activate.bat\r\nstreamlit run kitia_app.py\r\npause

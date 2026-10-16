@@ -1,0 +1,7 @@
+SLIDE 4 - LA SOLUCIÓN
+KitIA: Reglas eléctricas + explicación didáctica
+1. Detecta el error (motor determinista)
+2. Traduce a pasos cortos y claros (IA)
+3. Explica en menos de 30 segundos
+4. Funciona sin internet
+5. Pensado para escuelas rurales multigrado

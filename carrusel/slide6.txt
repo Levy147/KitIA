@@ -1,0 +1,7 @@
+SLIDE 6 - DEMOSTRACIÓN
+MVP funcionando - 3 casos reales:
+- LED en polaridad inversa
+- Resistencia muy baja (>20 mA en pin Arduino)
+- Falta de tierra común (GND)
+Explicación en español, clara y accionable
+Sin internet • Enfoque en equidad educativa

@@ -1,0 +1,6 @@
+SLIDE 3 - POR QUÉ LA IA
+Los modelos de visión fallan en diagnóstico eléctrico.
+EEE-Bench (CVPR 2025): ignoran la imagen y empeoran con más contexto.
+CircuitSense: percepción >85% vs. derivación simbólica <19%.
+KitIA usa reglas deterministas + IA para explicar.
+Traduce lo técnico a lenguaje didáctico en español.
