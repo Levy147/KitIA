@@ -1,5 +1,19 @@
 ﻿# KitIA - Diagnóstico de circuitos para docentes rurales
 
+<p align="center">
+  <img src="carrusel_img/slide1.png" alt="KitIA - Portada" width="420">
+</p>
+
+<p align="center">
+  <img src="carrusel_img/slide2.png" alt="El problema" width="250">
+  <img src="carrusel_img/slide3.png" alt="Por qué la IA" width="250">
+  <img src="carrusel_img/slide4.png" alt="La solución" width="250">
+</p>
+<p align="center">
+  <img src="carrusel_img/slide5.png" alt="Rol de la IA" width="250">
+  <img src="carrusel_img/slide6.png" alt="Demostración" width="250">
+</p>
+
 ## ¿Qué es KitIA?
 
 KitIA es un asistente diseñado para docentes de escuelas públicas rurales multigrado que

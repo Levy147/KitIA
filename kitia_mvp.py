@@ -1,6 +1,13 @@
 # KitIA - MVP mínimo para demostrar la propuesta
 # 3 casos concretos que cualquier docente se encuentra
 
+import sys
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
 ERRORES = {
     "led_polaridad_inversa": {
         "titulo": "LED en polaridad inversa",
